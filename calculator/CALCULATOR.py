@@ -1,7 +1,7 @@
 from tkinter import *
 
 mw = Tk()
-mw.title('CALCULATOR')
+mw.title('CALCULATOR NIHITH')
 
 
 def clear():
@@ -13,7 +13,8 @@ def btn_clk(num):
     clear()
     f_num = cur_num + num
     db.insert(0, f_num)
-
+#DB= DISPLAY BOX
+#MW= VARIABLE (TYPE)
 
 first_num = 0
 math = ''
