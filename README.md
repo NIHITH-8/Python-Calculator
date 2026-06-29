@@ -1,1 +1,2 @@
-# calculator-code
+# calculator-code 
+IT SUPPORTS .EXE FORMAT AND IT WORKS IN LAPTOPS WITH GUI
